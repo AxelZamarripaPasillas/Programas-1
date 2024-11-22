@@ -1,1 +1,2 @@
+#TIPOS DE DATOS
 
